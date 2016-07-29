@@ -1,0 +1,7 @@
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi(CSharp)\NTESMusicApi(CSharp)\bin\Debug\NTESMusicApi(CSharp).exe.config
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi\NTESMusicApi(CSharp)\bin\Debug\NTESMusicApi(CSharp).exe.config
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi\NTESMusicApi(CSharp)\bin\Debug\NTESMusicApi(CSharp).exe
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi\NTESMusicApi(CSharp)\bin\Debug\NTESMusicApi(CSharp).pdb
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi\NTESMusicApi(CSharp)\obj\Debug\NTESMusicApi(CSharp).csprojResolveAssemblyReference.cache
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi\NTESMusicApi(CSharp)\obj\Debug\NTESMusicApi(CSharp).exe
+D:\My Documents\Projects\Visual Studio Projects\NTESMusicApi\NTESMusicApi(CSharp)\obj\Debug\NTESMusicApi(CSharp).pdb
