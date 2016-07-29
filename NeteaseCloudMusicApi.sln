@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeteaseCloudMusicApi(Test)", "NeteaseCloudMusicApi(Test)\NeteaseCloudMusicApi(Test).csproj", "{92EF1811-5FA4-42B1-9D18-155FCB597048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeteaseCloudMusicApi", "NeteaseCloudMusicApi\NeteaseCloudMusicApi.csproj", "{BAA82886-BD31-45FC-A7FF-289E73B52DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeteaseCloudMusicApi(WebAPI)", "NeteaseCloudMusicApi(WebAPI)\NeteaseCloudMusicApi(WebAPI).csproj", "{9EF76E14-7844-44A5-8B96-316DA6EE011C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92EF1811-5FA4-42B1-9D18-155FCB597048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EF1811-5FA4-42B1-9D18-155FCB597048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EF1811-5FA4-42B1-9D18-155FCB597048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EF1811-5FA4-42B1-9D18-155FCB597048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA82886-BD31-45FC-A7FF-289E73B52DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA82886-BD31-45FC-A7FF-289E73B52DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA82886-BD31-45FC-A7FF-289E73B52DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA82886-BD31-45FC-A7FF-289E73B52DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF76E14-7844-44A5-8B96-316DA6EE011C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF76E14-7844-44A5-8B96-316DA6EE011C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF76E14-7844-44A5-8B96-316DA6EE011C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF76E14-7844-44A5-8B96-316DA6EE011C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
