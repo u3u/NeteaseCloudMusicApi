@@ -4,6 +4,7 @@
 搜集到以下可用API：
 
 1. **搜索API**
+  - 请求地址(raw): http://music.163.com/api/search/get
   - 请求地址(demo): http://y.dskui.com/api/music/search
   - 请求参数:
     - <code>s:</code> 搜索关键字
@@ -17,6 +18,7 @@
   ```
   
 2. **歌曲详情API**
+  - 请求地址(raw): http://music.163.com/api/song/detail
   - 请求地址(demo): http://y.dskui.com/api/music/detail
   - 请求参数:
     - <code>ids:</code> 要获取的歌曲id列表, 多个之间以英文逗号分隔, 例如: [29775505, 29775506]
@@ -26,6 +28,7 @@
   ```
   
 3. **歌词API**
+  - 请求地址(raw): http://music.163.com/api/song/lyric
   - 请求地址(demo): http://y.dskui.com/api/music/lyric
   - 请求参数:
     - <code>id:</code> 要获取的歌曲id
@@ -36,6 +39,7 @@
   ```
   
 4. **用户歌单API**
+  - 请求地址(raw): http://music.163.com/api/playlist/detail
   - 请求地址(demo): http://y.dskui.com/api/music/playlist
   - 请求参数:
     - <code>id:</code> 用户歌单id
@@ -45,6 +49,7 @@
   ```
 
 5. **MV视频API**
+  - 请求地址(raw): http://music.163.com/api/mv/detail
   - 请求地址(demo): http://y.dskui.com/api/music/mv
   - 请求参数:
     - <code>id:</code> 用户歌单id
