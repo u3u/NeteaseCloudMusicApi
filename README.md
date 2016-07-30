@@ -1,5 +1,5 @@
 # NeteaseCloudMusicApi (C#, WebAPI)
-**非常感谢 [@AxHello](https://github.com/axhello) 提供 [PHP版本的](https://github.com/axhello/NeteaseCloudMusicApi) NeteaseCloudMusicApi**
+**非常感谢 [@AxHello](https://github.com/axhello) 提供 [PHP版本](https://github.com/axhello/NeteaseCloudMusicApi)的 NeteaseCloudMusicApi**
 
 搜集到以下可用API：
 
