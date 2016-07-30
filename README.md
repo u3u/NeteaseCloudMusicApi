@@ -52,7 +52,7 @@
   - 请求地址(raw): http://music.163.com/api/mv/detail
   - 请求地址(demo): http://y.dskui.com/api/music/mv
   - 请求参数:
-    - <code>id:</code> mvid
+    - <code>id:</code> MV 视频id
   - 请求示例:
   ``` Javascript
     $.get('http://y.dskui.com/api/music/mv?id=333042').then(json => console.info(json));
